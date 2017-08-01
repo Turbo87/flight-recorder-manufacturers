@@ -1,0 +1,30 @@
+{
+  "name": "flight-recorder-manufacturers",
+  "version": "0.0.0",
+  "description": "Flight Recorder Manufacturers and their assigned IGC codes",
+  "keywords": [
+    "fai",
+    "flight",
+    "flying",
+    "gliding",
+    "igc",
+    "recorder"
+  ],
+  "homepage": "https://github.com/Turbo87/flight-recorder-manufacturers#readme",
+  "bugs": {
+    "url": "https://github.com/Turbo87/flight-recorder-manufacturers/issues"
+  },
+  "license": "MIT",
+  "author": "Tobias Bieniek <tobias.bieniek@gmail.com>",
+  "main": "manufacturers.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Turbo87/flight-recorder-manufacturers.git"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
