@@ -6,6 +6,20 @@ flight-recorder-manufacturers
 Flight Recorder Manufacturers and their assigned IGC codes
 
 
+Install
+------------------------------------------------------------------------------
+
+```bash
+npm install --save flight-recorder-manufacturers
+```
+
+or using [`yarn`](https://yarnpkg.com/):
+
+```bash
+yarn add flight-recorder-manufacturers
+```
+
+
 Usage
 ------------------------------------------------------------------------------
 
