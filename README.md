@@ -1,8 +1,6 @@
 flight-recorder-manufacturers
 ==============================================================================
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/Turbo87/flight-recorder-manufacturers.svg)](https://greenkeeper.io/)
-
 [![Build Status](https://travis-ci.org/Turbo87/flight-recorder-manufacturers.svg?branch=master)](https://travis-ci.org/Turbo87/flight-recorder-manufacturers)
 
 Flight Recorder Manufacturers and their assigned IGC codes
