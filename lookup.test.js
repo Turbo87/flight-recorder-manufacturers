@@ -1,15 +1,21 @@
 const lookup = require('./lookup');
 
 describe('flight recorder manufacturers', () => {
-  test('lookup()', () => {
-    expect(lookup('X')).toEqual('X');
-    expect(lookup('V')).toEqual('LXNAV');
-    expect(lookup('G')).toEqual('Flarm');
-    expect(lookup('LXV')).toEqual('LXNAV');
-    expect(lookup('LXN')).toEqual('LX Navigation');
-    expect(lookup('FLA')).toEqual('Flarm');
-    expect(lookup('XCS')).toEqual('XCSoar');
-    expect(lookup('XXX')).toEqual('XXX');
-    expect(lookup('Foo')).toEqual('FOO');
-  });
+  const tests = [
+    ['X', 'X'],
+    ['V', 'LXNAV'],
+    ['G', 'Flarm'],
+    ['LXV', 'LXNAV'],
+    ['LXN', 'LX Navigation'],
+    ['FLA', 'Flarm'],
+    ['XCS', 'XCSoar'],
+    ['XXX', 'XXX'],
+    ['Foo', 'FOO'],
+  ];
+
+  for (let [input, expected] of tests) {
+    test(`${input} -> ${expected}`, () => {
+      expect(lookup(input)).toEqual(expected);
+    });
+  }
 });
