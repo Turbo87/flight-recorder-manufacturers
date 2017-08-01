@@ -16,6 +16,10 @@
   },
   "license": "MIT",
   "author": "Tobias Bieniek <tobias.bieniek@gmail.com>",
+  "files": [
+    "lookup.js",
+    "manufacturers.json"
+  ],
   "main": "manufacturers.json",
   "repository": {
     "type": "git",
