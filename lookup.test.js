@@ -11,6 +11,7 @@ describe('flight recorder manufacturers', () => {
     ['XCS', 'XCSoar'],
     ['XXX', 'XXX'],
     ['Foo', 'FOO'],
+    ['XGD', 'GpsDump'],
   ];
 
   for (let [input, expected] of tests) {
