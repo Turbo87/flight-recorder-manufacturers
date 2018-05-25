@@ -29,7 +29,7 @@
     "test": "jest"
   },
   "devDependencies": {
-    "jest": "^22.0.3"
+    "jest": "^23.0.0"
   },
   "engines": {
     "node": ">=6"
