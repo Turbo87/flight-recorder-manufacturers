@@ -25,5 +25,13 @@
   { "name": "XCSoar", "long": "XCS", "short": null },
   { "name": "LK8000", "long": "XLK", "short": null },
   { "name": "GpsDump", "long": "XGD", "short": null },
-  { "name": "SeeYou Recorder", "long": "XCM", "short": null }
+  { "name": "SeeYou Recorder", "long": "XCM", "short": null },
+  { "name": "Flyskyhy", "long": "XFH", "short": null },
+  { "name": "XCTrack", "long": "XCT", "short": null },
+  { "name": "Flymaster Live", "long": "XFM", "short": null },
+  { "name": "XCTracer", "long": "XTR", "short": null },
+  { "name": "SkyBean", "long": "XSB", "short": null },
+  { "name": "leGPSBip", "long": "XSD", "short": null },
+  { "name": "Logfly", "long": "XLF", "short": null },
+  { "name": "Loctome", "long": "XLM", "short": null }
 ]
