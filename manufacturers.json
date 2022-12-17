@@ -33,5 +33,6 @@
   { "name": "SkyBean", "long": "XSB", "short": null },
   { "name": "Stodeus", "long": "XSD", "short": null },
   { "name": "Logfly", "long": "XLF", "short": null },
-  { "name": "Loctome", "long": "XLM", "short": null }
+  { "name": "Loctome", "long": "XLM", "short": null },
+  { "name": "SKYTRAXX", "long": "XSX", "short": null }
 ]
