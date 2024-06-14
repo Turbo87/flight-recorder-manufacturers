@@ -31,7 +31,8 @@
   { "name": "Flymaster Live", "long": "XFM", "short": null },
   { "name": "XCTracer", "long": "XTR", "short": null },
   { "name": "SkyBean", "long": "XSB", "short": null },
-  { "name": "leGPSBip", "long": "XSD", "short": null },
+  { "name": "Stodeus", "long": "XSD", "short": null },
   { "name": "Logfly", "long": "XLF", "short": null },
-  { "name": "Loctome", "long": "XLM", "short": null }
+  { "name": "Loctome", "long": "XLM", "short": null },
+  { "name": "SKYTRAXX", "long": "XSX", "short": null }
 ]
